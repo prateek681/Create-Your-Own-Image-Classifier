@@ -5,7 +5,7 @@ Udacity Data Scientist Nanodegree Project 2 Create your Own Image Classifier
 ### Table of Contents
 
 1. [Requirements](#requirements)
-2. [Project Description](#Project Description)
+2. [Project Description](#ProjectDescription)
 3. [Results](#results)
 4. [Licensing, Authors, and Acknowledgements](#licensing)
 
